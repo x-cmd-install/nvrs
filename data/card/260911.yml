@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.10"
   latestRelease: "v0.1.10"
   latestPrerelease: "v0.1.8-pre1"
-  collectedAt: 2026-09-11T05:52:42Z
+  collectedAt: 2026-09-11T19:08:47Z
 timeline:
   created: 2024-11-16
   lastCommit: 2026-04-23
@@ -88,7 +88,7 @@ total:
   commit: 178
 ---
 path: /home/runner/.x-repo/github.com/adamperkowski/nvrs
-collectedAt: 2026-09-11T05:52:45Z
+collectedAt: 2026-09-11T19:08:48Z
 loc:
   Rust:
     code: 1219
